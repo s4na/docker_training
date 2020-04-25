@@ -1,13 +1,12 @@
 # Docker練習
 
 Docker
-Docker Compose
-Docker Hub
-
-Docker
 Dockerfile
 
+Docker Compose
 docker-compose.yml
+
+Docker Hub
 
 ## docker command
 
@@ -35,8 +34,6 @@ stop <Container name> # コンテナを停止
 commit <Container name> # コンテナからイメージを作成
 
 
-
-
 ## Proxy設定
 Proxy配下でDockerを使用する場合は、設定が必要
 
@@ -46,7 +43,8 @@ Proxy配下でDockerを使用する場合は、設定が必要
 
 ## 参考
 
-https://docs.docker.com/engine/reference/commandline/run/
+[Docker Documentation](https://docs.docker.com/engine/reference/commandline/run/)
 
-http://docs.docker.jp/engine/reference/commandline/run.html
+[Dockerドキュメント日本語化プロジェクト](https://matsuand.github.io/docs.docker.jp.onthefly/)
 
+[Docker-docs-ja](http://docs.docker.jp/engine/reference/commandline/run.html)
