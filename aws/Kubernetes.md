@@ -1,0 +1,33 @@
+# Kubernetes
+
+- Node
+  - Server
+- Cluster
+  - Nodeをひとまとめにしたグループ
+- Master
+  - Clusterを管理するServer
+- Kubernetes Architecture
+  - https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/#download
+  - Controll Plane
+    - Master Node
+    - api server
+    - scheduler
+    - controllers
+  - Nodes
+    - kubelet
+    - ...
+    - ...
+
+- Master
+  - etcd (Key-value store)
+  - Scheduler
+  - Controller Manager
+  - API Server
+- Nodes
+  - Networking
+  - Kubelet
+    - KubernetesのAgent
+  - Container Runtime
+  - OS
+  - kubectl
+    - Command line tool
