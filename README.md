@@ -48,3 +48,7 @@ Proxy配下でDockerを使用する場合は、設定が必要
 [Dockerドキュメント日本語化プロジェクト](https://matsuand.github.io/docs.docker.jp.onthefly/)
 
 [Docker-docs-ja](http://docs.docker.jp/engine/reference/commandline/run.html)
+
+[いつから始めるの？Docker、AWS、kubernetes初学者がこっそり1日で先輩に追いつく3つの作戦 - くろかわこうへい](https://www.youtube.com/watch?v=M4wXwx8qQOs)
+
+https://y-ohgi.com/introduction-docker/
